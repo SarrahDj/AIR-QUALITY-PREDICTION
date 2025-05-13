@@ -8,7 +8,7 @@ This project focuses on predicting air quality indicators using various regressi
 
 - **Source:** [Kaggle - Air Quality Dataset](https://www.kaggle.com/)  
 - **Description:** The dataset includes measurements of air pollutants and meteorological data.  
-- **Target Variable(s):** CO, NOx , AH
+- **Target Variables:** CO, NOx , AH
 
 ---
 
